@@ -1,7 +1,7 @@
 url: $NOTIFY_URL
-status: up
-code: 200
-responseTime: 356
-lastUpdated: 2025-02-22T12:20:07.170Z
+status: down
+code: 530
+responseTime: 70
+lastUpdated: 2025-02-22T14:13:27.712Z
 startTime: 2025-02-22T12:02:34.688Z
 generator: Upptime <https://github.com/upptime/upptime>
