@@ -1,36 +1,60 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: whiteravens20
+repo: status.wrservices.link
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: White Ravens Home
+    url: https://whiteravens.net
+  - name: Dokumentacja WR
+    url: https://wrservices.link
+  - name: Dashboard
+    url: https://home.wrservices.link
+  - name: Metawyszukiwarka
+    url: https://search.whiteravens.net
+    assignees:
+      - pavlojs
+  - name: Element Web
+    url: https://chat.wrservices.link
+    assignees:
+      - pavlojs
+  - name: Udostępnianie plików
+    url: https://fileshare.wrservices.link
+    assignees:
+      - pavlojs
+  - name: Pastebin
+    url: https://pastebin.wrservices.link
+    assignees:
+      - pavlojs
+  - name: Instancja Invidious
+    url: https://invid.wrservices.link
+    assignees:
+      - pavlojs
+  - name: Synapse
+    url: $SYNAPSE_URL
+    assignees:
+      - pavlojs
+  - name: System Powiadomień
+    url: $NOTIFY_URL
+    assignees:
+      - pavlojs
 
 status-website:
+  robotsText: "User-agent: * \n Disallow: /"
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.wrservices.link
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Status | White Ravens Services
+  theme: ocean
+  introTitle: "Status usług **White Ravens**"
+  introMessage: Ta strona prezentuje bieżące statusy usług i aplikacji **White Ravens**. Monitorujemy dostępność i działanie systemów w czasie rzeczywistym, publikując informacje o wszelkich incydentach i przerwach w działaniu.
   navbar:
     - title: Status
       href: /
+    - title: White Ravens Home
+      href: https://whiteravens.net
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/whiteravens20/status.wrservices.link
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
