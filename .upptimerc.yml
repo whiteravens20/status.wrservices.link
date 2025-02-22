@@ -45,7 +45,6 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status | White Ravens Services
-  theme: night
   introTitle: "Status usług **White Ravens**"
   introMessage: "Ta strona prezentuje bieżące statusy usług i aplikacji **White Ravens**. Monitorujemy dostępność i działanie systemów w czasie rzeczywistym, publikując informacje o wszelkich incydentach i przerwach w działaniu."
   navbar:
