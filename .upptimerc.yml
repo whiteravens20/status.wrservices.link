@@ -6,34 +6,43 @@ sites:
     url: https://whiteravens.net
   - name: Dokumentacja WR
     url: https://wrservices.link
+    icon: https://github.com/whiteravens20/services-images/blob/main/full-assets/documentation/favicon.svg
   - name: Dashboard
     url: https://home.wrservices.link
+    icon: https://github.com/whiteravens20/services-images/blob/main/full-assets/dashboard/favicon.svg
   - name: Metawyszukiwarka
     url: https://search.whiteravens.net
+    icon: https://github.com/whiteravens20/services-images/blob/main/full-assets/search/favicon.svg
     assignees:
       - pavlojs
   - name: Element Web
     url: https://chat.wrservices.link
+    icon: https://github.com/whiteravens20/services-images/blob/main/full-assets/element/favicon.svg
     assignees:
       - pavlojs
   - name: Udostępnianie plików
     url: https://fileshare.wrservices.link
+    icon: https://github.com/whiteravens20/services-images/blob/main/full-assets/fileshare/favicon.svg
     assignees:
       - pavlojs
   - name: Pastebin
     url: https://pastebin.wrservices.link
+    icon: https://github.com/whiteravens20/services-images/blob/main/full-assets/pastebin/favicon.svg
     assignees:
       - pavlojs
   - name: Instancja Invidious
     url: https://invid.wrservices.link
+    icon: https://github.com/whiteravens20/services-images/blob/main/full-assets/invid/favicon.svg
     assignees:
       - pavlojs
   - name: Synapse
     url: $SYNAPSE_URL
+    icon: https://github.com/whiteravens20/services-images/blob/main/full-assets/synapse/favicon.svg
     assignees:
       - pavlojs
   - name: System Powiadomień
     url: $NOTIFY_URL
+    icon: https://github.com/whiteravens20/services-images/blob/main/full-assets/notify/favicon.svg
     assignees:
       - pavlojs
 
