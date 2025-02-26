@@ -10,17 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 142,
-    "timeDay": 155,
-    "timeWeek": 142,
-    "timeMonth": 142,
-    "timeYear": 142,
+    "time": 153,
+    "timeDay": 175,
+    "timeWeek": 153,
+    "timeMonth": 153,
+    "timeYear": 153,
     "dailyMinutesDown": {}
   },
   {
     "name": "Dokumentacja WR",
     "url": "https://wrservices.link",
-    "icon": "https://github.com/whiteravens20/services-images/blob/main/full-assets/documentation/favicon-96x96.png?raw=true",
+    "icon": "https://raw.githubusercontent.com/whiteravens20/services-images/refs/heads/main/full-assets/documentation/favicon-96x96.png",
     "slug": "dokumentacja-wr",
     "status": "up",
     "uptime": "100.00%",
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 137,
-    "timeDay": 147,
-    "timeWeek": 137,
-    "timeMonth": 137,
-    "timeYear": 137,
+    "time": 144,
+    "timeDay": 160,
+    "timeWeek": 144,
+    "timeMonth": 144,
+    "timeYear": 144,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 409,
-    "timeDay": 437,
-    "timeWeek": 409,
-    "timeMonth": 409,
-    "timeYear": 409,
+    "time": 425,
+    "timeDay": 464,
+    "timeWeek": 425,
+    "timeMonth": 425,
+    "timeYear": 425,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.75%",
-    "time": 398,
-    "timeDay": 460,
-    "timeWeek": 398,
-    "timeMonth": 398,
-    "timeYear": 398,
+    "time": 410,
+    "timeDay": 482,
+    "timeWeek": 410,
+    "timeMonth": 410,
+    "timeYear": 410,
     "dailyMinutesDown": {
       "2025-02-22": 16
     }
@@ -84,11 +84,11 @@
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.75%",
-    "time": 405,
-    "timeDay": 490,
-    "timeWeek": 405,
-    "timeMonth": 405,
-    "timeYear": 405,
+    "time": 414,
+    "timeDay": 501,
+    "timeWeek": 414,
+    "timeMonth": 414,
+    "timeYear": 414,
     "dailyMinutesDown": {
       "2025-02-22": 16
     }
@@ -104,11 +104,11 @@
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.75%",
-    "time": 428,
-    "timeDay": 453,
-    "timeWeek": 428,
-    "timeMonth": 428,
-    "timeYear": 428,
+    "time": 437,
+    "timeDay": 476,
+    "timeWeek": 437,
+    "timeMonth": 437,
+    "timeYear": 437,
     "dailyMinutesDown": {
       "2025-02-22": 16
     }
@@ -124,11 +124,11 @@
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.75%",
-    "time": 410,
-    "timeDay": 443,
-    "timeWeek": 410,
-    "timeMonth": 410,
-    "timeYear": 410,
+    "time": 424,
+    "timeDay": 473,
+    "timeWeek": 424,
+    "timeMonth": 424,
+    "timeYear": 424,
     "dailyMinutesDown": {
       "2025-02-22": 16
     }
@@ -144,11 +144,11 @@
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.75%",
-    "time": 487,
-    "timeDay": 558,
-    "timeWeek": 487,
-    "timeMonth": 487,
-    "timeYear": 487,
+    "time": 501,
+    "timeDay": 584,
+    "timeWeek": 501,
+    "timeMonth": 501,
+    "timeYear": 501,
     "dailyMinutesDown": {
       "2025-02-22": 16
     }
@@ -164,11 +164,11 @@
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.75%",
-    "time": 707,
-    "timeDay": 828,
-    "timeWeek": 707,
-    "timeMonth": 707,
-    "timeYear": 707,
+    "time": 730,
+    "timeDay": 865,
+    "timeWeek": 730,
+    "timeMonth": 730,
+    "timeYear": 730,
     "dailyMinutesDown": {
       "2025-02-22": 16
     }
@@ -184,11 +184,11 @@
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.75%",
-    "time": 568,
-    "timeDay": 426,
-    "timeWeek": 568,
-    "timeMonth": 568,
-    "timeYear": 568,
+    "time": 569,
+    "timeDay": 452,
+    "timeWeek": 569,
+    "timeMonth": 569,
+    "timeYear": 569,
     "dailyMinutesDown": {
       "2025-02-22": 16
     }
