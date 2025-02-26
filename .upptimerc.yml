@@ -6,7 +6,7 @@ sites:
     url: https://whiteravens.net
   - name: Dokumentacja WR
     url: https://wrservices.link
-    icon: https://raw.githubusercontent.com/whiteravens20/services-images/refs/heads/main/full-assets/documentation/favicon-96x96.png
+    icon: https://github.com/whiteravens20/services-images/blob/main/full-assets/documentation/favicon-96x96.png?raw=true
   - name: Dashboard
     url: https://home.wrservices.link
     icon: https://raw.githubusercontent.com/whiteravens20/services-images/refs/heads/main/full-assets/dashboard/favicon-96x96.png
