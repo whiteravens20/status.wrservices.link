@@ -4,12 +4,15 @@ repo: status.wrservices.link
 sites:
   - name: White Ravens Home
     url: https://whiteravens.net
+    icon: https://raw.githubusercontent.com/whiteravens20/services-images/refs/heads/main/full-assets/homepage/favicon-96x96.png
   - name: Dokumentacja WR
     url: https://wrservices.link
     icon: https://raw.githubusercontent.com/whiteravens20/services-images/refs/heads/main/full-assets/documentation/favicon-96x96.png
   - name: Dashboard
     url: https://home.wrservices.link
     icon: https://raw.githubusercontent.com/whiteravens20/services-images/refs/heads/main/full-assets/dashboard/favicon-96x96.png
+    assignees:
+      - pavlojs
   - name: Metawyszukiwarka
     url: https://search.whiteravens.net
     icon: https://raw.githubusercontent.com/whiteravens20/services-images/refs/heads/main/full-assets/search/favicon-96x96.png
@@ -35,9 +38,24 @@ sites:
     icon: https://raw.githubusercontent.com/whiteravens20/services-images/refs/heads/main/full-assets/invid/favicon-96x96.png
     assignees:
       - pavlojs
+  - name: Habitica
+    url: https://habitica.wrservices.link
+    icon: https://raw.githubusercontent.com/whiteravens20/services-images/refs/heads/main/full-assets/habitica/favicon-96x96.png
+    assignees:
+      - pavlojs
+  - name: Chmura WR
+    url: $CLOUD_URL
+    icon: https://raw.githubusercontent.com/whiteravens20/services-images/refs/heads/main/full-assets/cloud/favicon-96x96.png
+    assignees:
+      - pavlojs
   - name: Synapse
     url: $SYNAPSE_URL
     icon: https://raw.githubusercontent.com/whiteravens20/services-images/refs/heads/main/full-assets/synapse/favicon-96x96.png
+    assignees:
+      - pavlojs
+  - name: Integrator Office
+    url: $OFFICE_URL
+    icon: https://raw.githubusercontent.com/whiteravens20/services-images/refs/heads/main/full-assets/office/favicon-96x96.png
     assignees:
       - pavlojs
   - name: System Powiadomień
