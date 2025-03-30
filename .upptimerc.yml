@@ -115,7 +115,7 @@ i18n:
   responseTimeMs: "Czas odpowiedzi (ms)"
   liveStatus: "Status na żywo"
   liveStatusHtmlComment: "<!--status na żywo-->"
-  allSystemsOperational: "🟩 Wszystkie systemy działają poprawnie"
+  allSystemsOperational: "Wszystkie systemy działają poprawnie"
   degradedPerformance: "🟨 Ograniczona wydajność"
   completeOutage: "🟥 Całkowita awaria"
   partialOutage: "🟧 Częściowa awaria"
