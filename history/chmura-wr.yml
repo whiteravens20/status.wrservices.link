@@ -1,7 +1,7 @@
 url: $CLOUD_URL
-status: up
-code: 200
-responseTime: 697
-lastUpdated: 2025-04-22T18:16:10.978Z
+status: down
+code: 502
+responseTime: 448
+lastUpdated: 2025-04-22T18:42:38.965Z
 startTime: 2025-03-20T19:56:24.897Z
 generator: Upptime <https://github.com/upptime/upptime>
