@@ -53,11 +53,6 @@ sites:
     icon: https://raw.githubusercontent.com/whiteravens20/services-images/refs/heads/main/full-assets/synapse/favicon-96x96.png
     assignees:
       - pavlojs
-  - name: Integrator Office
-    url: $OFFICE_URL
-    icon: https://raw.githubusercontent.com/whiteravens20/services-images/refs/heads/main/full-assets/office/favicon-96x96.png
-    assignees:
-      - pavlojs
   - name: System Powiadomień
     url: $NOTIFY_URL
     icon: https://raw.githubusercontent.com/whiteravens20/services-images/refs/heads/main/full-assets/notify/favicon-96x96.png
