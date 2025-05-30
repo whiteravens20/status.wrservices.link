@@ -195,18 +195,20 @@
     "url": "$CLOUD_URL",
     "icon": "https://raw.githubusercontent.com/whiteravens20/services-images/refs/heads/main/full-assets/cloud/favicon-96x96.png",
     "slug": "chmura-wr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 676,
-    "timeDay": 717,
-    "timeWeek": 718,
-    "timeMonth": 709,
-    "timeYear": 676,
-    "dailyMinutesDown": {}
+    "time": 675,
+    "timeDay": 624,
+    "timeWeek": 694,
+    "timeMonth": 703,
+    "timeYear": 675,
+    "dailyMinutesDown": {
+      "2025-05-30": 0
+    }
   },
   {
     "name": "Synapse",
