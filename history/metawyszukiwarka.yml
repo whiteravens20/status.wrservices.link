@@ -1,7 +1,7 @@
 url: https://search.whiteravens.net
-status: up
-code: 200
-responseTime: 420
-lastUpdated: 2025-10-02T23:12:50.365Z
+status: down
+code: 503
+responseTime: 335
+lastUpdated: 2025-10-03T09:49:05.685Z
 startTime: 2025-02-22T12:02:29.959Z
 generator: Upptime <https://github.com/upptime/upptime>
