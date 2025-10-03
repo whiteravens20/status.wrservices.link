@@ -1,7 +1,7 @@
 url: https://invid.wrservices.link
-status: up
-code: 200
-responseTime: 573
-lastUpdated: 2025-10-02T23:12:52.784Z
+status: down
+code: 503
+responseTime: 132
+lastUpdated: 2025-10-03T05:22:45.715Z
 startTime: 2025-02-22T12:02:32.872Z
 generator: Upptime <https://github.com/upptime/upptime>
