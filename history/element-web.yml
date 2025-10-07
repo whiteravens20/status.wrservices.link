@@ -1,7 +1,7 @@
 url: https://chat.wrservices.link
-status: up
-code: 200
-responseTime: 508
-lastUpdated: 2025-10-06T23:13:07.397Z
+status: down
+code: 502
+responseTime: 431
+lastUpdated: 2025-10-07T13:49:01.312Z
 startTime: 2025-02-22T12:02:30.691Z
 generator: Upptime <https://github.com/upptime/upptime>
