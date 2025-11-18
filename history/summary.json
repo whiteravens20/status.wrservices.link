@@ -4,19 +4,19 @@
     "url": "https://whiteravens.net",
     "icon": "https://raw.githubusercontent.com/whiteravens20/services-images/refs/heads/main/full-assets/homepage/favicon-96x96.png",
     "slug": "white-ravens-home",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "91.13%",
-    "uptimeWeek": "98.73%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.97%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "89.72%",
+    "uptimeWeek": "98.53%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.96%",
     "time": 211,
-    "timeDay": 291,
-    "timeWeek": 309,
+    "timeDay": 285,
+    "timeWeek": 304,
     "timeMonth": 239,
     "timeYear": 211,
     "dailyMinutesDown": {
-      "2025-11-18": 127
+      "2025-11-18": 147
     }
   },
   {
@@ -232,7 +232,7 @@
     "uptime": "84.37%",
     "uptimeDay": "96.07%",
     "uptimeWeek": "98.92%",
-    "uptimeMonth": "87.36%",
+    "uptimeMonth": "87.40%",
     "uptimeYear": "84.37%",
     "time": 800,
     "timeDay": 600,
