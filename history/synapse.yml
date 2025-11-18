@@ -1,7 +1,7 @@
 url: $SYNAPSE_URL
-status: up
-code: 200
-responseTime: 1235
-lastUpdated: 2025-11-17T23:14:09.277Z
+status: down
+code: 500
+responseTime: 104
+lastUpdated: 2025-11-18T11:41:49.863Z
 startTime: 2025-02-22T12:02:33.659Z
 generator: Upptime <https://github.com/upptime/upptime>
